@@ -1,0 +1,41 @@
+ ssh yadagiri@192.168.7.25
+
+yadagiri@123
+
+Password@1234
+
+
+p@ssw0rd 
+
+
+
+ctrl + /  for commenting and uncommenting
+
+
+ctrl + alt + L  for auto format
+
+bundle exec rake sunspot:solr:start RAILS_ENV=test
+
+
+
+User.create!(username: 'satish1', password: 'satish' ,password_confirmation: 'satish',
+                 email: 'admin_user@yopmail.com', user_type: 'internal', roles_mask: '32', status: 'active')
+
+
+
+unit testing for models
+
+functional testing for controllers
+
+integration testing for end to end work flow
+
+
+
+zip -r zipfile.zip directory
+
+
+
+
+heroku login
+Email: yadagiri.tandu@hotmail.com
+Password: your-password

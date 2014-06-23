@@ -1,0 +1,66 @@
+ sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+
+http://rvm.io/rvm/install
+https://gorails.com/setup/ubuntu/14.04
+
+
+rvm requirements
+
+
+<%=debug(@student) %>
+raise @award.to_yaml
+
+logger.info 'This is a message to send to the log'
+while in the view it would look like:
+<% logger.info 'This is a message to send to the log' %>
+
+filter_parameter_logging :password
+
+y s
+
+
+helper.number_to_human_size 1092582135
+
+
+ app.url_for :action=>"index", :controller=>"courses"
+
+ include Rails.application.routes.url_helpers
+
+
+app.get "/students/2"
+
+
+app.controller.params
+
+app.response.body
+
+ app.headers
+
+(rdb:1) irb
+(rdb:9) y @student
+
+
+(rdb:1) p @student
+bundle update friendly_id.
+
+Rails routing turns requests to particular URIs into calls to particular controllers and
+lets you create URIs from within your applications.
+
+
+
+Type VERIFY MR6JD and SMS it to 5676742 from your mobile phone.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
